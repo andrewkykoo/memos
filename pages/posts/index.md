@@ -1,6 +1,6 @@
 ---
 type: posts
-title: Posts
+title: Memos
 date: 2021-03-18
 ---
 
