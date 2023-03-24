@@ -2,8 +2,8 @@
 title: Procedural Programming
 date: 2023/3/22
 description: Stepping stone to object oriented programming.
-tag: programming
-author: You
+tag: programming, procedural
+author: Andrew K
 ---
 
 # Procedural Programming
